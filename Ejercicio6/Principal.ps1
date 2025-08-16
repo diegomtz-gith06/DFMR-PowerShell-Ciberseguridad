@@ -1,4 +1,6 @@
-﻿Clear-Host
+﻿#Entre de contrabando, ajjaja Lalo 16/08/2025
+
+Clear-Host
 Import-Module AuditoriaBasica
 
 Write-Host "=== Auditoria basica de usuarios y servicios==="
