@@ -23,3 +23,5 @@ Ejecutar:
 Import-Module AuditoriaBasica 
 Get-Help Obtener-UsuariosInactivos -Full 
 Get-Help Obtener-ServiciosExternos -Full 
+
+#Editado por Diego Mtz el 16/08/2025 a las 2:23p.m.
